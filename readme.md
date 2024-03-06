@@ -1,6 +1,11 @@
 Report: Sentiment Analysis for Facebook Comments
  Muhammad Ali Javed IT-2203 
 Zhansya Aralkhan IT-2203
+VIDEO LINK IS HERE:
+https://www.youtube.com/watch?v=0M6lBPF4LFY
+GITHUB LINK IS HERE:
+https://github.com/M-ali111/Final-
+
 Introduction:
 •	Problem: In today's social media-dominated landscape, understanding user sentiments on platforms like Facebook is pivotal for businesses and consumers. Sentiment analysis aids in deciphering attitudes towards products, services, or events.
 •	Literature Review: Prior research has delved into sentiment analysis using diverse methodologies, including Convolutional Neural Networks (CNNs), Long Short-Term Memory (LSTM) networks, and Bidirectional Encoder Representations from Transformers (BERT). These studies offer valuable insights into sentiment analysis techniques and their applicability. Current Work: This study focuses on crafting a sentiment analysis model tailored explicitly for Facebook comments. The chosen approach utilizes a CNN architecture due to its effectiveness in processing sequential data like text.
